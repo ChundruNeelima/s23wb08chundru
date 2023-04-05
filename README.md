@@ -1,6 +1,6 @@
 # s23wb08chundru
 This is Neelima
-horse_color:(String)
-horse_breed:(String)
-horse_price:(Number)
+squirrel_color:(String)
+squirrel_breed:(String)
+squirrel_price:(Number)
  
